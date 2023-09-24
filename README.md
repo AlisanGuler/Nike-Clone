@@ -15,7 +15,6 @@ It is an alternative website for Nike.
 
 - HTML
 - CSS
-- JS
 
 # Requirements
 
